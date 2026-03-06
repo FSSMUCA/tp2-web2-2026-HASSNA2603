@@ -1,4 +1,4 @@
-// Déclaration des variables
+
 let nom = null;
 let age = 0;
 let ville = "";
